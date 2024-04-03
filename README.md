@@ -3,7 +3,6 @@
 <h3 align="center"> I'm a passionate Computer Science student </h3>
 
 <img align="right" alt="top-langauges" src="https://github-readme-stats.vercel.app/api/top-langs?username=Silve2&show_icons=true&locale=en&layout=compact&theme=dracula&show=contribs,prs" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Silve2)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
 
