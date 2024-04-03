@@ -1,4 +1,4 @@
-<h1 align="center"> Hi👋, I'm Andrea De Biasi </h1>
+<h1 align="center"> Hi👋, I'm Silvello Lorenzo </h1>
 
 <h3 align="center"> I'm a passionate Computer Science student </h3>
 
