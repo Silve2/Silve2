@@ -11,6 +11,8 @@
 - ⚡ 2024 goals: Learn more about Machine Learning and AI
 - 🖥️ Currently doing an internship at National research center in Bologna (Italy)
 
+- In the section below there are some pinned projects that i worked on !
+
 ### Languages and Tools: ###
 
 <img align="left" alt="C++" width="26px" src="https://github.com/github/explore/blob/main/topics/cpp/cpp.png" />
