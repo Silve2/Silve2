@@ -17,10 +17,10 @@
 
 ### Languages and Tools: ###
 
+<img align="left" alt="Python" width="26px" src="https://github.com/github/explore/blob/main/topics/python/python.png" />
 <img align="left" alt="C++" width="26px" src="https://github.com/github/explore/blob/main/topics/cpp/cpp.png" />
 <img align="left" alt="C" width="26px" src="https://github.com/github/explore/blob/main/topics/c/c.png" />
 <img align="left" alt="Java" width="26px" src="https://github.com/github/explore/blob/main/topics/java/java.png" />
-<img align="left" alt="Python" width="26px" src="https://github.com/github/explore/blob/main/topics/python/python.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png" />
 <img align="left" alt="HTML5" width="26px" src="https://github.com/github/explore/blob/main/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://github.com/github/explore/blob/main/topics/css/css.png" />
