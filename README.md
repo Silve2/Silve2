@@ -43,4 +43,5 @@
 <!-- variables -->
 [website]: https://silve2.github.io/
 [linkedin]: https://www.linkedin.com/in/lorenzo-silvello-2780b3209/
-[instagram]: https://www.instagram.com/andrew.debiasi/](https://www.instagram.com/lorenzosilvello/
+[instagram]: https://www.instagram.com/lorenzosilvello/
+[tiktok]: https://www.tiktok.com/@lorenzosilvello_ai?is_from_webapp=1&sender_device=pc
