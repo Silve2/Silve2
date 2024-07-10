@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Computer Science
 - 👯 I’m looking to collaborate on stimulating projects
 - ⚡ 2024 goals: Learn more about Machine Learning and AI
-- 🖥️ Currently doing an internship at  National Research Council in Bologna (Italy)
+- 🖥️ Data scientist/AI Engineer at Inferentia
 
 <br>
 <br>
