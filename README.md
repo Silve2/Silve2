@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Computer Science
 - 👯 I’m looking to collaborate on stimulating projects
 - ⚡ 2026 goals: Learn more about Machine Learning and AI
-- 🖥️ Data scientist/AI Engineer at Inferentia
+- 🖥️ ML/AI Engineer
 
 <br>
 <br>
