@@ -1,6 +1,6 @@
 <h1 align="center"> Hi👋, I'm Silvello Lorenzo </h1>
 
-<h3 align="center"> I'm a passionate Computer Science student </h3>
+<h3 align="center"> I'm a ML/AI Engineer </h3>
 <img align="right" alt="top-langauges" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silve2&layout=compact"/>
 
 <br>
